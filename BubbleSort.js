@@ -25,3 +25,4 @@ for(let i = 0; i < l-1; i++){
 console.log(a);
 
 //Big O Complexity - o(n2)
+//Bubble sort is pretty much a Loop within a loop
